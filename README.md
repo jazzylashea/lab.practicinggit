@@ -1,1 +1,1 @@
-this is a repo for learning git
+1st day of junior phase!
